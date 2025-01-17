@@ -1,0 +1,15 @@
+[submodule "react-ui"]
+	path = react-ui
+	url = https://github.com/developer-shahrukh/debtors-accounting-frontend-react
+[submodule "react-ui-second"]
+	path = react-ui-second
+	url = https://github.com/developer-shahrukh/debtors-ui
+[submodule "backend-java"]
+	path = backend-java
+	url = https://github.com/developer-shahrukh/debtors-accounting-backend-java
+[submodule "backend-nodejs"]
+	path = backend-nodejs
+	url = https://github.com/developer-shahrukh/debtors-accounting-backend-js
+[submodule "frontend-jquery"]
+	path = frontend-jquery
+	url = https://github.com/developer-shahrukh/debtors-accounting-frontend-jquery
